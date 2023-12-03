@@ -10,7 +10,7 @@ This is a repository containing the projects I worked on in my Software Design a
 - Vowel Counter (vowel.py)
 - Bob Counter (bob_counter.py)
 - Alphabetical String Identifyer (alpha_string.py)
-### Binary Search Demo
+### Bisection Search Demo
 - Number Guesser (guess_number.py)
 ### Sorting Programs
 - O(n) sort an array of n length, containing numbers 0 - n-1 (sort.py)
